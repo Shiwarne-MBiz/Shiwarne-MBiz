@@ -27,15 +27,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shiwarne.silva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shiwarne.silva" /></a></p><br><br><br><br>
 
-### :fire: My Stats. :
------
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shiwarne-Silva&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwarne-Silva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br><br>
-
-### 🏆: GitHub Trophies. :
------
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shiwarne-Silva&theme=onedark)](https://github.com/Shiwarne-Silva/github-profile-trophy)</a> </p><br><br>
-  
   
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
